@@ -1,0 +1,1 @@
+# crudmodelform-django
